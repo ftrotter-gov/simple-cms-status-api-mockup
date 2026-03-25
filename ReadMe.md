@@ -6,9 +6,9 @@ CMS Status API Placeholder
 
 You can put these three urls as a source into your ETL as a mockup: 
 
-* https://raw.githubusercontent.com/ftrotter-gov/simple-cms-status-api-mockup/refs/heads/main/apimock/aligned-with-cms-data-network.json
-* https://raw.githubusercontent.com/ftrotter-gov/simple-cms-status-api-mockup/refs/heads/main/apimock/cms-enrollment-in-good-standing.json
-* https://raw.githubusercontent.com/ftrotter-gov/simple-cms-status-api-mockup/refs/heads/main/apimock/cms-ial2-verified.json
+* https://raw.githubusercontent.com/ftrotter-gov/simple-cms-status-api-mockup/refs/heads/main/verification_api_mock/aligned-with-cms-data-network.json
+* https://raw.githubusercontent.com/ftrotter-gov/simple-cms-status-api-mockup/refs/heads/main/verification_api_mock/cms-enrollment-in-good-standing.json
+* https://raw.githubusercontent.com/ftrotter-gov/simple-cms-status-api-mockup/refs/heads/main/verification_api_mock/cms-ial2-verified.json
 
 Someday I might get the staticsite working with these.. 
 
