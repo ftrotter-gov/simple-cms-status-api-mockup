@@ -1,0 +1,152 @@
+{
+  "CMS_Aligned_Data_Networks": [
+    {
+      "name": "Arcadia",
+      "link": "https://raw.githubusercontent.com/ftrotter-gov/simple-cms-status-api-mockup/refs/heads/main/datanetworks_api_mock/Arcadia.json"
+    },
+    {
+      "name": "BurstIQ_Inc",
+      "link": "https://raw.githubusercontent.com/ftrotter-gov/simple-cms-status-api-mockup/refs/heads/main/datanetworks_api_mock/BurstIQ_Inc.json"
+    },
+    {
+      "name": "CRISP",
+      "link": "https://raw.githubusercontent.com/ftrotter-gov/simple-cms-status-api-mockup/refs/heads/main/datanetworks_api_mock/CRISP.json"
+    },
+    {
+      "name": "Carequality",
+      "link": "https://raw.githubusercontent.com/ftrotter-gov/simple-cms-status-api-mockup/refs/heads/main/datanetworks_api_mock/Carequality.json"
+    },
+    {
+      "name": "CommonWell_Health_Alliance",
+      "link": "https://raw.githubusercontent.com/ftrotter-gov/simple-cms-status-api-mockup/refs/heads/main/datanetworks_api_mock/CommonWell_Health_Alliance.json"
+    },
+    {
+      "name": "Connxus",
+      "link": "https://raw.githubusercontent.com/ftrotter-gov/simple-cms-status-api-mockup/refs/heads/main/datanetworks_api_mock/Connxus.json"
+    },
+    {
+      "name": "CyncHealth",
+      "link": "https://raw.githubusercontent.com/ftrotter-gov/simple-cms-status-api-mockup/refs/heads/main/datanetworks_api_mock/CyncHealth.json"
+    },
+    {
+      "name": "Datavant",
+      "link": "https://raw.githubusercontent.com/ftrotter-gov/simple-cms-status-api-mockup/refs/heads/main/datanetworks_api_mock/Datavant.json"
+    },
+    {
+      "name": "Epic",
+      "link": "https://raw.githubusercontent.com/ftrotter-gov/simple-cms-status-api-mockup/refs/heads/main/datanetworks_api_mock/Epic.json"
+    },
+    {
+      "name": "Gainwell_Technologies",
+      "link": "https://raw.githubusercontent.com/ftrotter-gov/simple-cms-status-api-mockup/refs/heads/main/datanetworks_api_mock/Gainwell_Technologies.json"
+    },
+    {
+      "name": "Graici",
+      "link": "https://raw.githubusercontent.com/ftrotter-gov/simple-cms-status-api-mockup/refs/heads/main/datanetworks_api_mock/Graici.json"
+    },
+    {
+      "name": "Health_Gorilla",
+      "link": "https://raw.githubusercontent.com/ftrotter-gov/simple-cms-status-api-mockup/refs/heads/main/datanetworks_api_mock/Health_Gorilla.json"
+    },
+    {
+      "name": "Imprivata_Inc",
+      "link": "https://raw.githubusercontent.com/ftrotter-gov/simple-cms-status-api-mockup/refs/heads/main/datanetworks_api_mock/Imprivata_Inc.json"
+    },
+    {
+      "name": "Innovaccer",
+      "link": "https://raw.githubusercontent.com/ftrotter-gov/simple-cms-status-api-mockup/refs/heads/main/datanetworks_api_mock/Innovaccer.json"
+    },
+    {
+      "name": "InterSystems_Corporation",
+      "link": "https://raw.githubusercontent.com/ftrotter-gov/simple-cms-status-api-mockup/refs/heads/main/datanetworks_api_mock/InterSystems_Corporation.json"
+    },
+    {
+      "name": "KONZA_Health",
+      "link": "https://raw.githubusercontent.com/ftrotter-gov/simple-cms-status-api-mockup/refs/heads/main/datanetworks_api_mock/KONZA_Health.json"
+    },
+    {
+      "name": "Kno2",
+      "link": "https://raw.githubusercontent.com/ftrotter-gov/simple-cms-status-api-mockup/refs/heads/main/datanetworks_api_mock/Kno2.json"
+    },
+    {
+      "name": "LoginHealth",
+      "link": "https://raw.githubusercontent.com/ftrotter-gov/simple-cms-status-api-mockup/refs/heads/main/datanetworks_api_mock/LoginHealth.json"
+    },
+    {
+      "name": "Louisiana_Department_of_Health",
+      "link": "https://raw.githubusercontent.com/ftrotter-gov/simple-cms-status-api-mockup/refs/heads/main/datanetworks_api_mock/Louisiana_Department_of_Health.json"
+    },
+    {
+      "name": "Massachusetts_Health_Data_Consortium_Inc",
+      "link": "https://raw.githubusercontent.com/ftrotter-gov/simple-cms-status-api-mockup/refs/heads/main/datanetworks_api_mock/Massachusetts_Health_Data_Consortium_Inc.json"
+    },
+    {
+      "name": "MedAllies",
+      "link": "https://raw.githubusercontent.com/ftrotter-gov/simple-cms-status-api-mockup/refs/heads/main/datanetworks_api_mock/MedAllies.json"
+    },
+    {
+      "name": "MiHIN",
+      "link": "https://raw.githubusercontent.com/ftrotter-gov/simple-cms-status-api-mockup/refs/heads/main/datanetworks_api_mock/MiHIN.json"
+    },
+    {
+      "name": "Miracural_AI",
+      "link": "https://raw.githubusercontent.com/ftrotter-gov/simple-cms-status-api-mockup/refs/heads/main/datanetworks_api_mock/Miracural_AI.json"
+    },
+    {
+      "name": "MyHealth_Access_Network",
+      "link": "https://raw.githubusercontent.com/ftrotter-gov/simple-cms-status-api-mockup/refs/heads/main/datanetworks_api_mock/MyHealth_Access_Network.json"
+    },
+    {
+      "name": "Netsmart",
+      "link": "https://raw.githubusercontent.com/ftrotter-gov/simple-cms-status-api-mockup/refs/heads/main/datanetworks_api_mock/Netsmart.json"
+    },
+    {
+      "name": "Oracle_Health",
+      "link": "https://raw.githubusercontent.com/ftrotter-gov/simple-cms-status-api-mockup/refs/heads/main/datanetworks_api_mock/Oracle_Health.json"
+    },
+    {
+      "name": "Orion_Health",
+      "link": "https://raw.githubusercontent.com/ftrotter-gov/simple-cms-status-api-mockup/refs/heads/main/datanetworks_api_mock/Orion_Health.json"
+    },
+    {
+      "name": "Particle_Health",
+      "link": "https://raw.githubusercontent.com/ftrotter-gov/simple-cms-status-api-mockup/refs/heads/main/datanetworks_api_mock/Particle_Health.json"
+    },
+    {
+      "name": "SYNCRONYS",
+      "link": "https://raw.githubusercontent.com/ftrotter-gov/simple-cms-status-api-mockup/refs/heads/main/datanetworks_api_mock/SYNCRONYS.json"
+    },
+    {
+      "name": "Surescripts",
+      "link": "https://raw.githubusercontent.com/ftrotter-gov/simple-cms-status-api-mockup/refs/heads/main/datanetworks_api_mock/Surescripts.json"
+    },
+    {
+      "name": "Zus_Health",
+      "link": "https://raw.githubusercontent.com/ftrotter-gov/simple-cms-status-api-mockup/refs/heads/main/datanetworks_api_mock/Zus_Health.json"
+    },
+    {
+      "name": "athenahealth",
+      "link": "https://raw.githubusercontent.com/ftrotter-gov/simple-cms-status-api-mockup/refs/heads/main/datanetworks_api_mock/athenahealth.json"
+    },
+    {
+      "name": "bwell_Connected_Health",
+      "link": "https://raw.githubusercontent.com/ftrotter-gov/simple-cms-status-api-mockup/refs/heads/main/datanetworks_api_mock/bwell_Connected_Health.json"
+    },
+    {
+      "name": "eClinicalWorks",
+      "link": "https://raw.githubusercontent.com/ftrotter-gov/simple-cms-status-api-mockup/refs/heads/main/datanetworks_api_mock/eClinicalWorks.json"
+    },
+    {
+      "name": "eHealth_Exchange",
+      "link": "https://raw.githubusercontent.com/ftrotter-gov/simple-cms-status-api-mockup/refs/heads/main/datanetworks_api_mock/eHealth_Exchange.json"
+    },
+    {
+      "name": "for_testing_AnotherDataNetwork",
+      "link": "https://raw.githubusercontent.com/ftrotter-gov/simple-cms-status-api-mockup/refs/heads/main/datanetworks_api_mock/for_testing_AnotherDataNetwork.json"
+    },
+    {
+      "name": "for_testing_VeryGoodDataNetwork",
+      "link": "https://raw.githubusercontent.com/ftrotter-gov/simple-cms-status-api-mockup/refs/heads/main/datanetworks_api_mock/for_testing_VeryGoodDataNetwork.json"
+    }
+  ]
+}
