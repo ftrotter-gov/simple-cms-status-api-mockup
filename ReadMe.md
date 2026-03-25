@@ -27,6 +27,8 @@ Each data network has its own endpoint with participating NPI information. Examp
 * <https://raw.githubusercontent.com/ftrotter-gov/simple-cms-status-api-mockup/refs/heads/main/datanetworks_api_mock/Carequality.json>
 * <https://raw.githubusercontent.com/ftrotter-gov/simple-cms-status-api-mockup/refs/heads/main/datanetworks_api_mock/eHealth_Exchange.json>
 * <https://raw.githubusercontent.com/ftrotter-gov/simple-cms-status-api-mockup/refs/heads/main/datanetworks_api_mock/Epic.json>
+* <https://raw.githubusercontent.com/ftrotter-gov/simple-cms-status-api-mockup/refs/heads/main/datanetworks_api_mock/for_testing_VeryGoodDataNetwork.json>
+* <https://raw.githubusercontent.com/ftrotter-gov/simple-cms-status-api-mockup/refs/heads/main/datanetworks_api_mock/for_testing_AnotherDataNetwork.json>
 
 See the data network index for the complete list of 37+ available data networks.
 
